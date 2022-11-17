@@ -1,0 +1,89 @@
+
+
+.profile-card {
+    display: grid;
+    justify-content: stretch;
+    align-items: stretch;
+    grid-template-columns: 40% 60%;
+    column-gap: 3.2rem;
+}
+
+.profile-card h2 {
+    font-size: 2em;;
+    line-height: 1.4;
+}
+.profile-card .text {
+    display: block;
+    width: 100%;
+    padding-right: 3.2rem;
+}
+.profile-card p {
+    margin: 0.8rem 0;
+    max-width: 100%;
+}
+.profile-card .button {
+    display: block;
+   background: rgb(0 40 130);
+   color: #fff;
+   border-radius: 2em;
+   padding: 0.8rem 2.4rem;
+   text-decoration: none;
+   margin-top: .8rem;
+   width: max-content;
+   max-width: 100%;
+   float: right;
+   transition: 0.2s ease-out;
+}
+.profile-card .button:hover {
+   background: rgb(37, 81, 184);
+}
+
+
+
+@media only screen and (max-width: 960px) {
+    .profile-card {
+        grid-template-columns: 20% 80%;
+    }
+    .profile-card .button {
+        float: none;
+        margin-top: 1.8rem;
+    }
+}
+@media only screen and (max-width: 660px) {
+    .profile-card {
+        grid-template-columns: 12.1rem 1fr;
+        align-items: flex-start;
+        column-gap: 1.8rem;
+    }
+    .profile-pic {
+        position: relative;
+        width: 100%;
+        height: auto;
+        aspect-ratio: 1/1;
+        border-radius: 50%;
+        border: 0.1rem solid rgba(0,0,0,0.3);
+        overflow: hidden;
+        padding: 0.3rem;
+    }
+    .profile-pic img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        object-fit: cover;
+    }
+}
+@media only screen and (max-width: 460px) {
+    .profile-card {
+        grid-template-columns: 100%;
+        gap: 1.8rem;
+    }
+    .profile-pic {
+        width: 12.1rem;
+    }
+    .profile-card .button {
+        float: right;
+    }
+    .profile-card .text {
+        padding-right: 0;
+    }
+}

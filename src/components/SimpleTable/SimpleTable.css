@@ -1,0 +1,25 @@
+.simple-table {
+    margin-top: 8.2rem;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+}
+.simple-table th,
+.simple-table td {
+    border: 0.1rem solid rgba(0,0,0,0.3);
+    padding: 0.8rem 1.8rem;
+}
+.simple-table th {
+    background: #e3f2fd;
+}
+.simple-table .center {
+    text-align: center;
+}
+
+
+@media only screen and (max-width: 660px) {
+    .simple-table td,
+    .simple-table th {
+            padding: 0.6rem 1.2rem;
+    }
+}

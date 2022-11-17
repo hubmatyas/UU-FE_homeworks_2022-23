@@ -1,0 +1,19 @@
+{
+    "students": [
+        {
+            "name": "Jan Novák",
+            "bio": "Nadějný programátor z Hronova",
+            "averageScore": 99
+        },
+        {
+            "name": "Jana Smutná",
+            "bio": "Nadějná designérka z Třebechovic nad Orebem",
+            "averageScore": 100
+        },
+        {
+            "name": "Karel Smutný",
+            "bio": "Mladý nadějný programátor z Pardubic",
+            "averageScore": 78
+        }
+    ]
+}
