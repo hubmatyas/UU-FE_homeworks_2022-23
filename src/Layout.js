@@ -4,18 +4,15 @@ import { Outlet, NavLink } from "react-router-dom";
 const Layout = () => {
   return (
     <>
-    <div className="container">
-        <aside>
+    <div className="wrapper">
+        <aside className="sidebar">
             <nav>
                 <ul>
                     <li>
-                        <NavLink></NavLink>
+                        <NavLink to="/homework01" activeClassName="active">Homework01</NavLink>
                     </li>
                     <li>
-                        <NavLink></NavLink>
-                    </li>
-                    <li>
-                        <NavLink></NavLink>
+                        <NavLink to="/homework02" activeClassName="active">Homework02</NavLink>
                     </li>
                 </ul>
             </nav>

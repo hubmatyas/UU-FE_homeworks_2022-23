@@ -1,15 +1,15 @@
 import React from "react";
-import InfoBox from '../../components/InfoBox/InfoBox';
-import ProfileCard from '../../components/ProfileCard/ProfileCard';
-import Graph from '../../components/Graph/Graph';
-import SimpleTable from '../../components/SimpleTable/SimpleTable';
+import "./Homeworks.css";
+import InfoBox from '../components/InfoBox/InfoBox';
+import ProfileCard from '../components/ProfileCard/ProfileCard';
+import Graph from '../components/Graph/Graph';
+import SimpleTable from '../components/SimpleTable/SimpleTable';
 
-import students from "../../data/students-list.json";
-import "./Homework01.css";
+import students from "../data/students-list.json";
 
 function Homework01() {
   return (
-    <div className="wrapper">
+    <div className="homework-wrapper">
       <ul className="infobox-wrapper">
         <InfoBox content={"Počet dnů hatchery"} value={"45"} />
         <InfoBox content={"Počet účastníků"} value={"15"} />

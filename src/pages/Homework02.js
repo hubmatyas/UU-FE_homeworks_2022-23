@@ -1,4 +1,5 @@
 import React from "react";
+import "./Homeworks.css";
 
 const Homework02 = () => {
   return (

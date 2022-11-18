@@ -2,8 +2,8 @@ import React from "react";
 import { Routes, Route } from "react-router-dom";
 
 import Layout from "./Layout";
-import Homework01 from './pages/Homework01/Homework01';
-import Homework02 from './pages/Homework01/Homework01';
+import Homework01 from './pages/Homework01';
+import Homework02 from './pages/Homework02';
 
 const App = () => {
   return (
