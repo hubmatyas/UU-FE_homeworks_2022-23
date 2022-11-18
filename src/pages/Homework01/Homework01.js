@@ -1,9 +1,11 @@
+import React from "react";
 import InfoBox from '../../components/InfoBox/InfoBox';
 import ProfileCard from '../../components/ProfileCard/ProfileCard';
 import Graph from '../../components/Graph/Graph';
 import SimpleTable from '../../components/SimpleTable/SimpleTable';
 
 import students from "../../data/students-list.json";
+import "./Homework01.css";
 
 function Homework01() {
   return (
