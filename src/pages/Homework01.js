@@ -1,9 +1,9 @@
 import React from "react";
 import "./Homeworks.css";
-import InfoBox from '../components/InfoBox/InfoBox';
-import ProfileCard from '../components/ProfileCard/ProfileCard';
-import Graph from '../components/Graph/Graph';
-import SimpleTable from '../components/SimpleTable/SimpleTable';
+import InfoBox from "../components/InfoBox/InfoBox";
+import ProfileCard from "../components/ProfileCard/ProfileCard";
+import Image from "../components/Image/Image";
+import SimpleTable from "../components/SimpleTable/SimpleTable";
 
 import students from "../data/students-list.json";
 
@@ -17,8 +17,22 @@ function Homework01() {
         <InfoBox content={"Hodnocení"} value={"94%"} />
       </ul>
       <div className="split">
-        <ProfileCard name={"Jakub"} about={"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Integer lacinia. Quisque porta. Aenean vel massa quis mauris vehicula lacinia. "} mail={"example@mail.com"} imgSrc={"https://vecizfilmu.cz/18113-large_default/plysova-postavicka-borek-stavitel-borek-bob-28-cm.jpg"} ></ProfileCard>
-        <Graph imgSrc={"https://static01.nyt.com/images/2022/10/04/learning/ImmigrationGraph2LN/ImmigrationGraph2LN-jumbo.png"} alt={"graph"} />
+        <ProfileCard
+          name={"Jakub"}
+          about={
+            "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Integer lacinia. Quisque porta. Aenean vel massa quis mauris vehicula lacinia. "
+          }
+          mail={"example@mail.com"}
+          imgSrc={
+            "https://vecizfilmu.cz/18113-large_default/plysova-postavicka-borek-stavitel-borek-bob-28-cm.jpg"
+          }
+        ></ProfileCard>
+        <Image
+          imgSrc={
+            "https://static01.nyt.com/images/2022/10/04/learning/ImmigrationGraph2LN/ImmigrationGraph2LN-jumbo.png"
+          }
+          alt={"graph"}
+        />
       </div>
       <SimpleTable data={students} />
     </div>

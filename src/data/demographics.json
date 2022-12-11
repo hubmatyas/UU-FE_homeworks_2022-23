@@ -1,0 +1,856 @@
+[
+ {
+   "year": 1900,
+   "averagePopulation": 9334000,
+   "liveBirths": 330662,
+   "deaths": 22792,
+   "naturalChange": 102742
+ },
+ {
+   "year": 1901,
+   "averagePopulation": 9405000,
+   "liveBirths": 325514,
+   "deaths": 221052,
+   "naturalChange": 104462
+ },
+ {
+   "year": 1902,
+   "averagePopulation": 9475000,
+   "liveBirths": 333619,
+   "deaths": 222457,
+   "naturalChange": 111162
+ },
+ {
+   "year": 1903,
+   "averagePopulation": 9545000,
+   "liveBirths": 318275,
+   "deaths": 218448,
+   "naturalChange": 99827
+ },
+ {
+   "year": 1904,
+   "averagePopulation": 9615000,
+   "liveBirths": 319433,
+   "deaths": 222276,
+   "naturalChange": 97157
+ },
+ {
+   "year": 1905,
+   "averagePopulation": 9685000,
+   "liveBirths": 300414,
+   "deaths": 232999,
+   "naturalChange": 67415
+ },
+ {
+   "year": 1906,
+   "averagePopulation": 9754000,
+   "liveBirths": 313449,
+   "deaths": 203182,
+   "naturalChange": 110267
+ },
+ {
+   "year": 1907,
+   "averagePopulation": 9825000,
+   "liveBirths": 306356,
+   "deaths": 210721,
+   "naturalChange": 95635
+ },
+ {
+   "year": 1908,
+   "averagePopulation": 9895000,
+   "liveBirths": 308504,
+   "deaths": 210101,
+   "naturalChange": 98403
+ },
+ {
+   "year": 1909,
+   "averagePopulation": 9965000,
+   "liveBirths": 305426,
+   "deaths": 210047,
+   "naturalChange": 95379
+ },
+ {
+   "year": 1910,
+   "averagePopulation": 10036000,
+   "liveBirths": 295617,
+   "deaths": 196728,
+   "naturalChange": 98889
+ },
+ {
+   "year": 1911,
+   "averagePopulation": 10099000,
+   "liveBirths": 289058,
+   "deaths": 206266,
+   "naturalChange": 82792
+ },
+ {
+   "year": 1912,
+   "averagePopulation": 10157000,
+   "liveBirths": 280368,
+   "deaths": 203324,
+   "naturalChange": 77044
+ },
+ {
+   "year": 1913,
+   "averagePopulation": 10221000,
+   "liveBirths": 27506,
+   "deaths": 190475,
+   "naturalChange": 84585
+ },
+ {
+   "year": 1914,
+   "averagePopulation": 10283000,
+   "liveBirths": 269142,
+   "deaths": 188838,
+   "naturalChange": 80304
+ },
+ {
+   "year": 1915,
+   "averagePopulation": 10286000,
+   "liveBirths": 197542,
+   "deaths": 20128,
+   "naturalChange": -3738
+ },
+ {
+   "year": 1916,
+   "averagePopulation": 10222000,
+   "liveBirths": 140211,
+   "deaths": 186381,
+   "naturalChange": -4617
+ },
+ {
+   "year": 1917,
+   "averagePopulation": 10128000,
+   "liveBirths": 126916,
+   "deaths": 188649,
+   "naturalChange": -61733
+ },
+ {
+   "year": 1918,
+   "averagePopulation": 10004000,
+   "liveBirths": 120579,
+   "deaths": 236035,
+   "naturalChange": -115456
+ },
+ {
+   "year": 1919,
+   "averagePopulation": 9922000,
+   "liveBirths": 189675,
+   "deaths": 177428,
+   "naturalChange": 12247
+ },
+ {
+   "year": 1920,
+   "averagePopulation": 9978000,
+   "liveBirths": 244668,
+   "deaths": 176562,
+   "naturalChange": 68106
+ },
+ {
+   "year": 1921,
+   "averagePopulation": 10002000,
+   "liveBirths": 257281,
+   "deaths": 161321,
+   "naturalChange": 9596
+ },
+ {
+   "year": 1922,
+   "averagePopulation": 10113000,
+   "liveBirths": 248728,
+   "deaths": 163366,
+   "naturalChange": 85362
+ },
+ {
+   "year": 1923,
+   "averagePopulation": 10198000,
+   "liveBirths": 24123,
+   "deaths": 142335,
+   "naturalChange": 98895
+ },
+ {
+   "year": 1924,
+   "averagePopulation": 10278000,
+   "liveBirths": 228894,
+   "deaths": 146098,
+   "naturalChange": 82796
+ },
+ {
+   "year": 1925,
+   "averagePopulation": 10370000,
+   "liveBirths": 225555,
+   "deaths": 14645,
+   "naturalChange": 79105
+ },
+ {
+   "year": 1926,
+   "averagePopulation": 10443000,
+   "liveBirths": 219802,
+   "deaths": 148298,
+   "naturalChange": 71504
+ },
+ {
+   "year": 1927,
+   "averagePopulation": 10496000,
+   "liveBirths": 208711,
+   "deaths": 155479,
+   "naturalChange": 53232
+ },
+ {
+   "year": 1928,
+   "averagePopulation": 10549000,
+   "liveBirths": 208942,
+   "deaths": 147064,
+   "naturalChange": 61878
+ },
+ {
+   "year": 1929,
+   "averagePopulation": 10598000,
+   "liveBirths": 203064,
+   "deaths": 155493,
+   "naturalChange": 47571
+ },
+ {
+   "year": 1930,
+   "averagePopulation": 10648000,
+   "liveBirths": 207224,
+   "deaths": 142159,
+   "naturalChange": 65065
+ },
+ {
+   "year": 1931,
+   "averagePopulation": 10702000,
+   "liveBirths": 196214,
+   "deaths": 144534,
+   "naturalChange": 5168
+ },
+ {
+   "year": 1932,
+   "averagePopulation": 10750000,
+   "liveBirths": 190397,
+   "deaths": 142997,
+   "naturalChange": 474
+ },
+ {
+   "year": 1933,
+   "averagePopulation": 10791000,
+   "liveBirths": 176201,
+   "deaths": 140906,
+   "naturalChange": 35295
+ },
+ {
+   "year": 1934,
+   "averagePopulation": 10826000,
+   "liveBirths": 171042,
+   "deaths": 135914,
+   "naturalChange": 35128
+ },
+ {
+   "year": 1935,
+   "averagePopulation": 10853000,
+   "liveBirths": 161748,
+   "deaths": 140878,
+   "naturalChange": 2087
+ },
+ {
+   "year": 1936,
+   "averagePopulation": 10873000,
+   "liveBirths": 157992,
+   "deaths": 139093,
+   "naturalChange": 18899
+ },
+ {
+   "year": 1937,
+   "averagePopulation": 10889000,
+   "liveBirths": 155996,
+   "deaths": 139558,
+   "naturalChange": 16438
+ },
+ {
+   "year": 1938,
+   "averagePopulation": 10877000,
+   "liveBirths": 163525,
+   "deaths": 143115,
+   "naturalChange": 2041
+ },
+ {
+   "year": 1939,
+   "averagePopulation": 11106000,
+   "liveBirths": 192344,
+   "deaths": 146976,
+   "naturalChange": 45368
+ },
+ {
+   "year": 1940,
+   "averagePopulation": 11160000,
+   "liveBirths": 218043,
+   "deaths": 153499,
+   "naturalChange": 64544
+ },
+ {
+   "year": 1941,
+   "averagePopulation": 11129000,
+   "liveBirths": 208913,
+   "deaths": 152048,
+   "naturalChange": 56865
+ },
+ {
+   "year": 1942,
+   "averagePopulation": 11054000,
+   "liveBirths": 199259,
+   "deaths": 153096,
+   "naturalChange": 46163
+ },
+ {
+   "year": 1943,
+   "averagePopulation": 11035000,
+   "liveBirths": 225379,
+   "deaths": 153349,
+   "naturalChange": 7203
+ },
+ {
+   "year": 1944,
+   "averagePopulation": 11109000,
+   "liveBirths": 230183,
+   "deaths": 161457,
+   "naturalChange": 68726
+ },
+ {
+   "year": 1945,
+   "averagePopulation": 10693000,
+   "liveBirths": 194182,
+   "deaths": 184944,
+   "naturalChange": 9238
+ },
+ {
+   "year": 1946,
+   "averagePopulation": 9523000,
+   "liveBirths": 210454,
+   "deaths": 134568,
+   "naturalChange": 75886
+ },
+ {
+   "year": 1947,
+   "averagePopulation": 8765000,
+   "liveBirths": 206745,
+   "deaths": 105277,
+   "naturalChange": 101468
+ },
+ {
+   "year": 1948,
+   "averagePopulation": 8893000,
+   "liveBirths": 197837,
+   "deaths": 101501,
+   "naturalChange": 96336
+ },
+ {
+   "year": 1949,
+   "averagePopulation": 8893000,
+   "liveBirths": 185484,
+   "deaths": 104632,
+   "naturalChange": 80852
+ },
+ {
+   "year": 1950,
+   "averagePopulation": 8930000,
+   "liveBirths": 188341,
+   "deaths": 103203,
+   "naturalChange": 85138
+ },
+ {
+   "year": 1951,
+   "averagePopulation": 9000000,
+   "liveBirths": 18557,
+   "deaths": 102658,
+   "naturalChange": 82912
+ },
+ {
+   "year": 1952,
+   "averagePopulation": 9075000,
+   "liveBirths": 180143,
+   "deaths": 97726,
+   "naturalChange": 82417
+ },
+ {
+   "year": 1953,
+   "averagePopulation": 9140000,
+   "liveBirths": 172547,
+   "deaths": 98837,
+   "naturalChange": 7371
+ },
+ {
+   "year": 1954,
+   "averagePopulation": 9200000,
+   "liveBirths": 168402,
+   "deaths": 99636,
+   "naturalChange": 68766
+ },
+ {
+   "year": 1955,
+   "averagePopulation": 9270000,
+   "liveBirths": 165874,
+   "deaths": 933,
+   "naturalChange": 72574
+ },
+ {
+   "year": 1956,
+   "averagePopulation": 9330000,
+   "liveBirths": 162509,
+   "deaths": 93526,
+   "naturalChange": 68983
+ },
+ {
+   "year": 1957,
+   "averagePopulation": 9390000,
+   "liveBirths": 155429,
+   "deaths": 98687,
+   "naturalChange": 56742
+ },
+ {
+   "year": 1958,
+   "averagePopulation": 9435000,
+   "liveBirths": 141762,
+   "deaths": 93697,
+   "naturalChange": 48065
+ },
+ {
+   "year": 1959,
+   "averagePopulation": 9465000,
+   "liveBirths": 128982,
+   "deaths": 97159,
+   "naturalChange": 31823
+ },
+ {
+   "year": 1960,
+   "averagePopulation": 9490000,
+   "liveBirths": 128879,
+   "deaths": 93863,
+   "naturalChange": 35016
+ },
+ {
+   "year": 1961,
+   "averagePopulation": 9587000,
+   "liveBirths": 131019,
+   "deaths": 94973,
+   "naturalChange": 36046
+ },
+ {
+   "year": 1962,
+   "averagePopulation": 9625000,
+   "liveBirths": 133557,
+   "deaths": 104318,
+   "naturalChange": 29239
+ },
+ {
+   "year": 1963,
+   "averagePopulation": 9671000,
+   "liveBirths": 14884,
+   "deaths": 100129,
+   "naturalChange": 48711
+ },
+ {
+   "year": 1964,
+   "averagePopulation": 9728000,
+   "liveBirths": 15442,
+   "deaths": 101984,
+   "naturalChange": 52436
+ },
+ {
+   "year": 1965,
+   "averagePopulation": 9779000,
+   "liveBirths": 147438,
+   "deaths": 105108,
+   "naturalChange": 4233
+ },
+ {
+   "year": 1966,
+   "averagePopulation": 9821000,
+   "liveBirths": 141162,
+   "deaths": 105784,
+   "naturalChange": 35378
+ },
+ {
+   "year": 1967,
+   "averagePopulation": 9853000,
+   "liveBirths": 138448,
+   "deaths": 108967,
+   "naturalChange": 29481
+ },
+ {
+   "year": 1968,
+   "averagePopulation": 9876000,
+   "liveBirths": 137437,
+   "deaths": 115195,
+   "naturalChange": 22242
+ },
+ {
+   "year": 1969,
+   "averagePopulation": 9897000,
+   "liveBirths": 143165,
+   "deaths": 120653,
+   "naturalChange": 22512
+ },
+ {
+   "year": 1970,
+   "averagePopulation": 9800000,
+   "liveBirths": 147865,
+   "deaths": 123327,
+   "naturalChange": 24538
+ },
+ {
+   "year": 1971,
+   "averagePopulation": 9827000,
+   "liveBirths": 15418,
+   "deaths": 122375,
+   "naturalChange": 31805
+ },
+ {
+   "year": 1972,
+   "averagePopulation": 9868000,
+   "liveBirths": 163661,
+   "deaths": 119205,
+   "naturalChange": 44456
+ },
+ {
+   "year": 1973,
+   "averagePopulation": 9922000,
+   "liveBirths": 18175,
+   "deaths": 124437,
+   "naturalChange": 57313
+ },
+ {
+   "year": 1974,
+   "averagePopulation": 9988000,
+   "liveBirths": 194215,
+   "deaths": 126809,
+   "naturalChange": 67406
+ },
+ {
+   "year": 1975,
+   "averagePopulation": 10059000,
+   "liveBirths": 191776,
+   "deaths": 124314,
+   "naturalChange": 67462
+ },
+ {
+   "year": 1976,
+   "averagePopulation": 10126000,
+   "liveBirths": 187378,
+   "deaths": 125232,
+   "naturalChange": 62146
+ },
+ {
+   "year": 1977,
+   "averagePopulation": 10187000,
+   "liveBirths": 181763,
+   "deaths": 126214,
+   "naturalChange": 55549
+ },
+ {
+   "year": 1978,
+   "averagePopulation": 10242000,
+   "liveBirths": 178901,
+   "deaths": 127136,
+   "naturalChange": 51765
+ },
+ {
+   "year": 1979,
+   "averagePopulation": 10292000,
+   "liveBirths": 172112,
+   "deaths": 127949,
+   "naturalChange": 44163
+ },
+ {
+   "year": 1980,
+   "averagePopulation": 10283000,
+   "liveBirths": 153801,
+   "deaths": 135537,
+   "naturalChange": 18264
+ },
+ {
+   "year": 1981,
+   "averagePopulation": 10301000,
+   "liveBirths": 144438,
+   "deaths": 130407,
+   "naturalChange": 14031
+ },
+ {
+   "year": 1982,
+   "averagePopulation": 10315000,
+   "liveBirths": 141738,
+   "deaths": 130765,
+   "naturalChange": 10973
+ },
+ {
+   "year": 1983,
+   "averagePopulation": 10324000,
+   "liveBirths": 137431,
+   "deaths": 134474,
+   "naturalChange": 2957
+ },
+ {
+   "year": 1984,
+   "averagePopulation": 10330000,
+   "liveBirths": 136941,
+   "deaths": 132188,
+   "naturalChange": 4753
+ },
+ {
+   "year": 1985,
+   "averagePopulation": 10337000,
+   "liveBirths": 135881,
+   "deaths": 131641,
+   "naturalChange": 424
+ },
+ {
+   "year": 1986,
+   "averagePopulation": 10341000,
+   "liveBirths": 133356,
+   "deaths": 132585,
+   "naturalChange": 771
+ },
+ {
+   "year": 1987,
+   "averagePopulation": 10349000,
+   "liveBirths": 130921,
+   "deaths": 127244,
+   "naturalChange": 3677
+ },
+ {
+   "year": 1988,
+   "averagePopulation": 10356000,
+   "liveBirths": 132667,
+   "deaths": 125694,
+   "naturalChange": 6973
+ },
+ {
+   "year": 1989,
+   "averagePopulation": 10362000,
+   "liveBirths": 128356,
+   "deaths": 127747,
+   "naturalChange": 609
+ },
+ {
+   "year": 1990,
+   "averagePopulation": 10363000,
+   "liveBirths": 130564,
+   "deaths": 129166,
+   "naturalChange": 1398
+ },
+ {
+   "year": 1991,
+   "averagePopulation": 10309000,
+   "liveBirths": 129354,
+   "deaths": 12429,
+   "naturalChange": 5064
+ },
+ {
+   "year": 1992,
+   "averagePopulation": 10318000,
+   "liveBirths": 121705,
+   "deaths": 120337,
+   "naturalChange": 1368
+ },
+ {
+   "year": 1993,
+   "averagePopulation": 10331000,
+   "liveBirths": 121025,
+   "deaths": 118185,
+   "naturalChange": 284
+ },
+ {
+   "year": 1994,
+   "averagePopulation": 10336000,
+   "liveBirths": 106579,
+   "deaths": 117373,
+   "naturalChange": -10794
+ },
+ {
+   "year": 1995,
+   "averagePopulation": 10331000,
+   "liveBirths": 96097,
+   "deaths": 117913,
+   "naturalChange": -21816
+ },
+ {
+   "year": 1996,
+   "averagePopulation": 10315000,
+   "liveBirths": 90446,
+   "deaths": 112782,
+   "naturalChange": -22336
+ },
+ {
+   "year": 1997,
+   "averagePopulation": 10304000,
+   "liveBirths": 90657,
+   "deaths": 112744,
+   "naturalChange": -22087
+ },
+ {
+   "year": 1998,
+   "averagePopulation": 10295000,
+   "liveBirths": 90535,
+   "deaths": 109527,
+   "naturalChange": -18992
+ },
+ {
+   "year": 1999,
+   "averagePopulation": 10283000,
+   "liveBirths": 89471,
+   "deaths": 109768,
+   "naturalChange": -20297
+ },
+ {
+   "year": 2000,
+   "averagePopulation": 10273000,
+   "liveBirths": 9091,
+   "deaths": 109001,
+   "naturalChange": -18091
+ },
+ {
+   "year": 2001,
+   "averagePopulation": 10224000,
+   "liveBirths": 90715,
+   "deaths": 107755,
+   "naturalChange": -1704
+ },
+ {
+   "year": 2002,
+   "averagePopulation": 10201000,
+   "liveBirths": 92786,
+   "deaths": 108243,
+   "naturalChange": -15457
+ },
+ {
+   "year": 2003,
+   "averagePopulation": 10207000,
+   "liveBirths": 93685,
+   "deaths": 111288,
+   "naturalChange": -17603
+ },
+ {
+   "year": 2004,
+   "averagePopulation": 10216000,
+   "liveBirths": 97664,
+   "deaths": 107177,
+   "naturalChange": -9513
+ },
+ {
+   "year": 2005,
+   "averagePopulation": 10236000,
+   "liveBirths": 102211,
+   "deaths": 107938,
+   "naturalChange": -5727
+ },
+ {
+   "year": 2006,
+   "averagePopulation": 10269000,
+   "liveBirths": 105831,
+   "deaths": 104441,
+   "naturalChange": 139
+ },
+ {
+   "year": 2007,
+   "averagePopulation": 10334000,
+   "liveBirths": 114632,
+   "deaths": 104636,
+   "naturalChange": 9996
+ },
+ {
+   "year": 2008,
+   "averagePopulation": 10425000,
+   "liveBirths": 11957,
+   "deaths": 104948,
+   "naturalChange": 14622
+ },
+ {
+   "year": 2009,
+   "averagePopulation": 10488000,
+   "liveBirths": 118348,
+   "deaths": 107421,
+   "naturalChange": 10927
+ },
+ {
+   "year": 2010,
+   "averagePopulation": 10517000,
+   "liveBirths": 117153,
+   "deaths": 106844,
+   "naturalChange": 10309
+ },
+ {
+   "year": 2011,
+   "averagePopulation": 10514000,
+   "liveBirths": 108673,
+   "deaths": 106848,
+   "naturalChange": 1825
+ },
+ {
+   "year": 2012,
+   "averagePopulation": 10516100,
+   "liveBirths": 108576,
+   "deaths": 108189,
+   "naturalChange": 387
+ },
+ {
+   "year": 2013,
+   "averagePopulation": 10512400,
+   "liveBirths": 106751,
+   "deaths": 10916,
+   "naturalChange": -2409
+ },
+ {
+   "year": 2014,
+   "averagePopulation": 10538300,
+   "liveBirths": 10986,
+   "deaths": 105665,
+   "naturalChange": 4195
+ },
+ {
+   "year": 2015,
+   "averagePopulation": 10553800,
+   "liveBirths": 110764,
+   "deaths": 111173,
+   "naturalChange": -409
+ },
+ {
+   "year": 2016,
+   "averagePopulation": 10578800,
+   "liveBirths": 112663,
+   "deaths": 10775,
+   "naturalChange": 4913
+ },
+ {
+   "year": 2017,
+   "averagePopulation": 10610000,
+   "liveBirths": 114405,
+   "deaths": 111443,
+   "naturalChange": 2962
+ },
+ {
+   "year": 2018,
+   "averagePopulation": 10649800,
+   "liveBirths": 114036,
+   "deaths": 11292,
+   "naturalChange": 1116
+ },
+ {
+   "year": 2019,
+   "averagePopulation": 10693939,
+   "liveBirths": 112231,
+   "deaths": 112362,
+   "naturalChange": -131
+ },
+ {
+   "year": 2020,
+   "averagePopulation": 10700155,
+   "liveBirths": 1102,
+   "deaths": 129289,
+   "naturalChange": -19089
+ },
+ {
+   "year": 2021,
+   "averagePopulation": 10524167,
+   "liveBirths": 111793,
+   "deaths": 139891,
+   "naturalChange": -28098
+ }
+]

@@ -5,9 +5,11 @@ const SimpleTable = (props) => {
   return (
         <table className="simple-table">
             <thead>
-                <th>Jméno</th>
-                <th>Bio</th>
-                <th className="center">Průběžné hodnocení</th>
+                <tr>
+                    <th>Jméno</th>
+                    <th>Bio</th>
+                    <th className="center">Průběžné hodnocení</th>
+                </tr>
             </thead>
             <tbody>
                 {props.data.students.map((item, i) => 

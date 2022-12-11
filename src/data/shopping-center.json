@@ -1,0 +1,27 @@
+[
+    {
+        "storeName": "Uzenářství Havel",
+        "numberOfCustomers": 10,
+        "customerLimit": 22
+    },
+    {
+        "storeName": "Zlatnictví Klempíř",
+        "numberOfCustomers": 2,
+        "customerLimit": 5
+    },
+    {
+        "storeName": "Samoobsluha Čermák",
+        "numberOfCustomers": 8,
+        "customerLimit": 15
+    },
+    {
+        "storeName": "HerniKonzole.cz",
+        "numberOfCustomers": 1,
+        "customerLimit": 5
+    },
+    {
+        "storeName": "MekDondels Hranolky",
+        "numberOfCustomers": 7,
+        "customerLimit": 12
+    }
+]
